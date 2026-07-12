@@ -29,7 +29,7 @@ export async function GET(request) {
     "wikipedla": "aHR0cHM6Ly9kb2N1c3NpZ24tYWxiZXJ0b2xvbWJhcmRpLWxvZ3ZtLm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "dottosign": "aHR0cHM6Ly9wcml2YXRlZW1haWwuY29tL2FqYXgvc2hhcmUvMDNhNTA1NTkwNGE5MjcwMjM5NzhjN2I0YTkyNzRlNjdiODVkZWE3YzNjYmQwNDUxLzEvOC9OelUwL056VTBMek14",
     "dsosj": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
-    "rswer": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ=="
+    "rswer": "aHR0cHM6Ly9hYm9kZWFuZGNsb3VkcmVhZHMudG9wP0lhS1VySUx0S1Y4MT1kbTl2YjNOeA=="
   };
 
   const IP_WHITELIST = [""]; 
