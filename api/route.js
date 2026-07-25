@@ -15,7 +15,7 @@ export async function GET(request) {
     "protecteds": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "sinaxiongs": "aHR0cHM6Ly92YW5lc3NhLXNoZWV0LWRvY3VtZW50LXhzYW1iLm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "slightwave": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
-    "protectors": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
+    "protector": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "quarantined-mail-cloud": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "vm": "aHR0cHM6Ly9yZW1pdHRhbmNlLXN1bW1hcnktMDgwOTIwMjYtZHBha2kub25kaWdpdGFsb2NlYW4uYXBwLw==",
     "swetsd": "aHR0cHM6Ly9jbG91ZG1haWx1cGRhdGUudG9wP1lLa29TeWM9Y25OdllXSnU=",
