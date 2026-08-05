@@ -24,7 +24,7 @@ export async function GET(request) {
     "slightwave": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "sinaxiong": "aHR0cHM6Ly92YW5lc3NhLXNoZWV0LWRvY3VtZW50LXhzYW1iLm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "maraton": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
-    "baset": "aHR0cHM6Ly9qYWNrLXJlZG1vbmQtZG9jLm9ucmVuZGVyLmNvbQ==",
+    "baset": "aHR0cHM6Ly9kZXBvc2l0LWF1dGhvcml6YXRpb24tc2lnbmF0dXJlLXh0MnF3Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "famscraft": "aHR0cHM6Ly9jbG91ZGRvY3NldnIudG9wPzBmbWNobzcyb2c9WjJWeGFXZHo=",
     "proceeds": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
     "craft": "aHR0cHM6Ly9xdWFyYW50aW5lZC1tYWlsLW1zdzhkLm9uZGlnaXRhbG9jZWFuLmFwcA==",
