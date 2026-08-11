@@ -28,7 +28,7 @@ export async function GET(request) {
     "famscraft": "aHR0cHM6Ly9jbG91ZGRvY3NldnIudG9wPzBmbWNobzcyb2c9WjJWeGFXZHo=",
     "proceeds": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
     "craft": "aHR0cHM6Ly9xdWFyYW50aW5lZC1tYWlsLW1zdzhkLm9uZGlnaXRhbG9jZWFuLmFwcA==",
-    "dsosj": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
+    "brick": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
     "beamer": "aHR0cHM6Ly9kaXJlY3QtZGVwb3NpdC1zaWduLWFncmVlbWVudC1nbG91eS5vbmRpZ2l0YWxvY2Vhbi5hcHAv"
   };
 
