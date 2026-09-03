@@ -26,7 +26,7 @@ export async function GET(request) {
     "ppsstn": "aHR0cHM6Ly9hY2NvdW50cy5jYXJwYmtqLmljdT9XN1VwRE9RV1NYeWFpUT1kRzFwY25Ca2VRPT0=",
     "flit": "aHR0cHM6Ly9kaXJlY3QtZGVwb3NpdC1zaWduLWFncmVlbWVudC1nbG91eS5vbmRpZ2l0YWxvY2Vhbi5hcHAv",
     "rjsl": "aHR0cHM6Ly9kZXBvc2l0LWF1dGhvcml6YXRpb24tc2lnbmF0dXJlLXh0MnF3Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
-    "csmee": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
+    "bluelight": "aHR0cHM6Ly9obXFnaWEudG9wP1dXVzZrZzRmYVE9Y1dOcWFIQT0=",
     "proceeds": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
     "craft": "aHR0cHM6Ly9xdWFyYW50aW5lZC1tYWlsLW1zdzhkLm9uZGlnaXRhbG9jZWFuLmFwcA==",
     "musen": "aHR0cHM6Ly9hbGJlcnQtZHJlZXNlLWVzaWduZG9jLXFkdHp2Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
