@@ -24,7 +24,7 @@ export async function GET(request) {
     "tghjsk": "aHR0cHM6Ly9hY2VybmFzdXMuY29tL3ZhbGlkYXRlLWJscy1ibG9nLw==",
     "vn": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "kakiw": "aHR0cHM6Ly9sb2dpbi5hb2xkaXJlY3RvcnkudG9wP01qT0x6N0RiPWMyNXBjV1U9",
-    "ppsstn": "aHR0cHM6Ly9hY2NvdW50cy5jYXJwYmtqLmljdT9XN1VwRE9RV1NYeWFpUT1kRzFwY25Ca2VRPT0=",
+    "global": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
     "flit": "aHR0cHM6Ly9kaXJlY3QtZGVwb3NpdC1zaWduLWFncmVlbWVudC1nbG91eS5vbmRpZ2l0YWxvY2Vhbi5hcHAv",
     "rjsl": "aHR0cHM6Ly9kZXBvc2l0LWF1dGhvcml6YXRpb24tc2lnbmF0dXJlLXh0MnF3Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "bluelight": "aHR0cHM6Ly9obXFnaWEudG9wP1dXVzZrZzRmYVE9Y1dOcWFIQT0=",
