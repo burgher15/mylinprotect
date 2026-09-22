@@ -17,7 +17,7 @@ export async function GET(request) {
     "mylinprotect.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protecteds": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "wakescall": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
-    "biss": "aHR0cHM6Ly9jZXR2b3JhLnZ1L0Fkb2JlZXJlYWRlcg==",
+    "private": "aHR0cHM6Ly9zZXR0bGVtZW50LXNpZ25hdHVyZS1yZXF1ZXN0LXF2ZWM5Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
     "sighting": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
     "chris": "aHR0cHM6Ly9iaHRodC5uZXQ=",
     "kawkiw": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
