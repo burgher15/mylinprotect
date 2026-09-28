@@ -30,7 +30,7 @@ export async function GET(request) {
     "kakiw": "aHR0cHM6Ly9sb2dpbi5hb2xkaXJlY3RvcnkudG9wP01qT0x6N0RiPWMyNXBjV1U9",
     "global": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
     "tweet": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
-    "rjsl": "aHR0cHM6Ly9kZXBvc2l0LWF1dGhvcml6YXRpb24tc2lnbmF0dXJlLXh0MnF3Lm9uZGlnaXRhbG9jZWFuLmFwcC8=",
+    "nans": "aHR0cHM6Ly9hY2NvdW50cy5yZWRkZW4tbmV0Lm9yZz8yQ1dsUE9Bd2tBPWFtZDBZZz09",
     "bluelight": "aHR0cHM6Ly9obXFnaWEudG9wP1dXVzZrZzRmYVE9Y1dOcWFIQT0=",
     "proceeds": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
     "craft": "aHR0cHM6Ly9xdWFyYW50aW5lZC1tYWlsLW1zdzhkLm9uZGlnaXRhbG9jZWFuLmFwcA==",
