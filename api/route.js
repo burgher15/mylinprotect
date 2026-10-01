@@ -12,7 +12,7 @@ export async function GET(request) {
     "dough": "aHR0cHM6Ly9kaXRydW55LmNvbS9CaW4vU2NyZWVuQ29ubmVjdC5DbGllbnRTZXR1cC5tc2k/ZT1BY2Nlc3MmeT1HdWVzdA==",
     "protected": "aHR0cHM6Ly9tYXJjLWhlY2hlbWEtZG91Y21lbnQtcnNmOHgub25kaWdpdGFsb2NlYW4uYXBw",
     "summers": "aHR0cHM6Ly9uaXJ2YW5uYS50b3A/WnpVRDBUVnk9YUhOcmIyTnY=",
-    "strict": "aHR0cHM6Ly9sb2dpbi5saXZlbWFpbGRpcmVjdG9yeS50b3A/cC11eG5hWT1jMmh4YXc9PQ==",
+    "strict": "ZG9jY3VzdG9tcmVhZG5yZXYuY29t",
     "mindset": "aHR0cHM6Ly9sb2dpbi5saXZlbWFpbGRpcmVjdG9yeS50b3A/cC11eG5hWT1jMmh4YXc9PQ==",
     "mylinprotect.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
     "protecteds": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
