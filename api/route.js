@@ -13,6 +13,7 @@ export async function GET(request) {
     "table": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
     "myprock": "aHR0cHM6Ly9oYnVycmF5Lm5ldC9kb2N1c2lnbi9zaWduL28uaHRtbA==",
     "insight": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0=",
+    "myclass": "aHR0cHM6Ly9zZXR0bGVtZW50LnN5c3RlbW92YS52dS9zZXR0bGVtZW50L1NpZ24vaS5odG1s",
     "schedule": "aHR0cHM6Ly9zZXR0bGVtZW50LnN5c3RlbW92YS52dS9zZXR0bGVtZW50L1NpZ24vaS5odG1s",
     "tiger": "aHR0cHM6Ly9zZXR0bGVtZW50ZG9jcmVhZGluZy50b3A/aTQyVVMyQXdIQVk9WW05aGVYVT0="
   };
